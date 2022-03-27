@@ -532,7 +532,7 @@ export const polygonPools = [
     addLiquidityUrl:
       'https://quickswap.exchange/#/add/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
     network: 'polygon',
-    createdAt: 1648327495,
+    createdAt: 1648326800,
   },
   {
     id: 'quick-bnb-usdc',
